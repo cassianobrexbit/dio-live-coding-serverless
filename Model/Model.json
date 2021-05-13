@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "ItemsInputModel",
+    "type": "object",
+    "properties": {
+        "id":{"type": "string"},
+        "itemName":{"type": "string"},
+        "itemPrice":{"type": "number"}
+    }
+  }
